@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Zombie
+comment0.text=\r\n\ Clase\ del\ objeto\ zombie\ con\ la\ cual\ el\ usuario\ podr\u00E1\ registrar\ informaci\u00F3n\ de\ zombies\ en\ los\ arreglos\ de\ la\ clase\ Principal\r\n\ \r\n\ @author\ (Felipe\ Arcila\ Palacio,\ Manuel\ Quintero\ Longas\ y\ Santiago\ Quintero\ Longas)\ \r\n
+comment1.params=nombre
+comment1.target=void\ setNombre(java.lang.String)
+comment2.params=salud
+comment2.target=void\ setSalud(int)
+comment3.params=fn
+comment3.target=void\ setFn(java.lang.String)
+comment4.params=rh
+comment4.target=void\ setRh(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getNombre()
+comment6.params=
+comment6.target=java.lang.String\ getFn()
+comment7.params=
+comment7.target=java.lang.String\ getRh()
+comment8.params=
+comment8.target=int\ getSalud()
+numComments=9
